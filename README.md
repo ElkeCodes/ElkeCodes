@@ -1,8 +1,8 @@
-# Hi there, I'm Elke, a fullstack developer! 👋
+# Hi there, I'm Elke, a fullstack developer, based in Belgium! 👋
 
-I'm currently building modern web applications with Vue.js and Python, backed by PostgreSQL for reliable data management.
-My background includes developing multiple React & Angular projects and architecting Node.js and C# backends, giving me a versatile perspective on fullstack development.
-I'm based in Belgium and currently working fully remote.
+I'm currently building modern web applications with **Vue.js** and **Python**, backed by **PostgreSQL** for reliable data management.
+My background includes developing multiple **React** & **Angular** projects and architecting **Node.js** and **C#** backends, giving me a versatile perspective on fullstack development.
+I'm based in **Belgium** and currently working **fully remote**.
 
 When I'm not coding, you can find me go on a run or do a HIIT workout to stay active.
 I’m also raising an amazing son with my fantastic wife, which is the most rewarding adventure of all.
