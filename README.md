@@ -9,6 +9,7 @@ I’m also raising an amazing son with my fantastic wife, which is the most rewa
 Big fan of board games and Dungeons & Dragons for some creative escapism, and I always enjoy tinkering with newer tech to see what’s possible.
 
 I share my thoughts, projects, and occasional ramblings over at [elkecodes.dev](https://elkecodes.dev).
+You can directly download my latest resume here: [elke-heymans-senior-fullstack-developer.pdf](https://raw.githubusercontent.com/ElkeCodes/resume/43220b12f6a1136f70da9588a286c88a5a44f7d8/elke-heymans-senior-fullstack-developer.pdf)
 
 ## Where to find me:
 
@@ -20,7 +21,7 @@ I share my thoughts, projects, and occasional ramblings over at [elkecodes.dev](
 - Frontend: Vue, React & Angular
 - Frontend state management: Pinia, React Query & NGRX
 - Backend: NodeJS (ExpressJS) & Python (FastAPI)
-- Database: PgSQL
+- Database: PgSQL & SPARQL
 - Styling: vanilla CSS & Tailwind
 - Testing: Vitest, testing library, Cypress
 
