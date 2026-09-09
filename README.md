@@ -1,8 +1,11 @@
 # Hi there, I'm Elke, a fullstack developer, based in Belgium! 👋
 
+Senior Fullstack Developer with 13 years of shipping high-performance, accessible web applications in a variety of technologies.
+Focused on aligning business needs with technical solutions, modernizing legacy architectures, leading engineering teams, and using AI tools to accelerate development while delivering high quality products.
+
 I'm currently building modern web applications with **Vue.js** and **Python**, backed by **PostgreSQL** for reliable data management.
 My background includes developing multiple **React** & **Angular** projects and architecting **Node.js** and **C#** backends, giving me a versatile perspective on fullstack development.
-I'm based in **Belgium** and currently working **fully remote**.
+I'm based in **Belgium** and currently working **fully remote** but willing to go to the office.
 
 When I'm not coding, you can find me go on a run or do a HIIT workout to stay active.
 I’m also raising an amazing son with my fantastic wife, which is the most rewarding adventure of all.
@@ -18,6 +21,7 @@ You can directly download my latest resume here: [elke-heymans-senior-fullstack-
 
 ## Technology stack 
 
+- AI: GitHub CoPilot, Skills and Agents
 - Frontend: Vue, React & Angular
 - Frontend state management: Pinia, React Query & NGRX
 - Backend: NodeJS (ExpressJS) & Python (FastAPI)
